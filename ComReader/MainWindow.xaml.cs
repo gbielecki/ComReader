@@ -23,6 +23,7 @@ namespace ComReader
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
